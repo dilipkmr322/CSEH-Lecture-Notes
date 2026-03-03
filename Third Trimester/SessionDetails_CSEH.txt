@@ -1,0 +1,151 @@
+Trimester 3
+
+Week 1:
+Session 1: 27-Jan-2026  (Tuesday)  Started: Instead tutorial
+	What is Ethical Hacking?
+	Hacker vs Ethical Hacker
+	Basic Hacking vs Advance Hacking
+	Why Advance Ethical Hacking?
+	Permission + Scope Define Ethics
+	Legal & Ethical Boundary
+	Role of Advance Ethical Hackers
+
+Note: Shared Reading Material
+
+Session 2: 29-Jan-2026  (Thursday)
+Lab 1: Recon 1: Cryptographic Failure: Source Code Disclosure via backup files
+	
+Session 3: 30-Jan-2026  (Friday)   //Cancelled by me due to system issue
+
+--------------------------------------------------------------------------------------
+Week 2:
+Session 4: 2-Feb-2026  (Monday): Attack Lifecycle
+What is Attack Lifecycle?
+Why Attack Lifecycle is Important?
+Five phases of Ethical hacking.
+1. Reconnaissance
+2. Scanning
+
+
+Session 5: 3-Feb-2026  (Tueday): Doubt class
+No Doubt then discussion made on Different types of attack
+
+Session 6: 5-Feb-2026  (Thursday): Attack Lifecycle
+Lab 2 Recon 2: Sensitive Data Exposure: Fuzzing using Feroxbuster | Sensitive Data Exposure
+
+Session 7: 6-Feb-2026  (Friday): Attack Lifecycle
+3. Gaining Access
+4. Maintaining Access
+5. Covering Tracks or Clearing Tracks
+comparison of Attack Life cycle with real world Analogy
+Why organizations use this model
+-----------------------------------------------------------------------------------
+Week 3:
+Session 8: 9-Feb-2026  (Monday): Team
+What is Team?
+Different kind of team: Red Team, Blue Team, Purple Team
+Red team: Role & Responsibilities, Ethical Hacking Alignment, Real-life analogy
+Blue team: Role & Responsibilities, Ethical Hacking Alignment, Real-life analogy
+Purple team: Role & Responsibilities, Ethical Hacking Alignment, Real-life analogy
+Comparision in between Red Team, Blue Team, and Purple Team
+
+Lab 3: Practical Demonstration on Authorization & Scope: Conceptual and Role-play (Three differnet Role-play on Permission, Scope, Objective)
+
+
+
+Session 9: 10-Feb-2026  (Tueday): Doubt class
+Topic: Client Server Communication
+Cache memory, Registry, Discussion on Cookies and Session
+Discussion on Login remember me option, How hacker expose the cookies.
+Expose Wifi Password 
+
+
+Session 10: 12-Feb-2026  (Thursday): Attack Lifecycle
+Lab 4 Recon 3: Sensitive Data Exposure: Recon using google Dorking and CCTV Camera Exposure
+Lab 5: Recon Using Spiderfoot
+
+
+Session 11: 13-Feb-2026  (Friday): Penetration Testing
+What is Penetration Testing?
+Purpose of Penetration Testing
+Type of Penetration Testing
+Penetration Testing Phases:
+	Planning & scope definition
+	Information gathering
+	Scanning and Enumeration: Vulnerability identification
+	Exploitation (controlled) and Post Exploitation
+	Reporting & remediation
+
+--------------------------------------------------------------------------------------
+
+Week 3:
+Session 12: 16-Feb-2026  (Monday): Penetration Testing
+Advance Vs Basic Penetration Testing
+Recap of Penetration Testing Methodology 
+Advanced Exploitation Concepts (No Abuse)
+Discussion on:
+	Exploit chaining
+	Privilege escalation 
+	Lateral movement 
+	Persistence 
+Shared Reading Material 
+Attack Chaining
+Discussion on Lab setup: Controlled Exploitation
+Setup Requirements:
+	Virtual Box Installation
+	Kali Linux VM
+	Metasploitable 2 VM (Deliberately Vulnerable)
+What is Controlled Exploitation?
+Red Team Vs Pen Testing
+Ethics & Legal Reinforcement
+What is Metasploit Framework?
+Why Metasploit?
+
+Lab 6: Finding the live machine in the network.
+
+
+Session 13: 17-Feb-2026  (Tueday): Doubt class
+Netwoking Concepts: Different class and network communication
+
+
+Session 14: 19-Feb-2026  (Thursday): 
+Lab 7: Additional Google Dorking
+Git Vs GitHub
+Lab 8: Recon: Sensitive Data Exposure: Using GitHub
+Tools: Wraith (Go language), Gitrob, Gihub-dorks 
+
+
+
+
+Session 15: 20-Feb-2026  (Friday): Advance Threat Intelligence
+Attack Surface
+Three Main Components
+1. Digital Attack Surface
+2. Physical Attack Surface
+3. Social Attack Surface (The Human Element)
+Types of Attack Surface
+1. Network Attack Surface
+2. Application Attack Surface
+3. Human Attack Surface
+Attack Surface in Cloud & Modern Infrastructure
+Cyber Security Alignment: Defensive Perspective
+Ethical Hacking Alignment: Offensive Perspective
+Threat Modeling
+
+----------------------------------------------------------------
+Session 16: 23-Feb-2026  (Monday): Advanced Threat Intelligence
+Cyber Threat Intelligence
+Threat Intelligence Sources
+Types of Threat Intelligence
+ 1. Strategic Intelligence
+ 2. Tactical Intelligence
+ 3. Operational Intelligence
+ 4. Technical Intelligence
+
+
+
+
+
+
+
+
