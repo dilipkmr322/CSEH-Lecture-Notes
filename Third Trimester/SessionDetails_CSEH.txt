@@ -131,7 +131,6 @@ Attack Surface in Cloud & Modern Infrastructure
 Cyber Security Alignment: Defensive Perspective
 Ethical Hacking Alignment: Offensive Perspective
 Threat Modeling
-
 ----------------------------------------------------------------
 Session 16: 23-Feb-2026  (Monday): Advanced Threat Intelligence
 Cyber Threat Intelligence
@@ -141,6 +140,17 @@ Types of Threat Intelligence
  2. Tactical Intelligence
  3. Operational Intelligence
  4. Technical Intelligence
+Session 17: 24-Feb-2026  (Tuesday): Samir Sir Taken class instructed by Siri Ma'am
+Session 18: 26-Feb-2026  (Thursday): Scanning Network Demonstration (Part-1)
+Session 19: 27-Feb-2026  (Friday): Scanning Network Demonstration (Part-2)
+----------------------------------------------------------------
+Session 20: 2-March-2026  (Monday): Holi Holiday 
+Session 21: 3-March-2026  (Tuesday): Master Class taken by other 
+Session 22: 5-March-2026  (Thursday): Gaining Access Demonstration
+Session 23: 6-March-2026  (Friday): Cyber Threat Intelligence Lifecycle
+CTI Framework
+----------------------------------------------------------------
+
 
 
 
